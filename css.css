@@ -22,7 +22,7 @@
 
 .class2{
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 2px;
     display: flex;
     flex-direction: column;
     align-items: center;
