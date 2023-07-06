@@ -51,7 +51,7 @@
     height: 25px;
     width: 25px;
     border-radius: 50%;
-    box-shadow: -5px 0 0 2px #1ca4f9;
+    box-shadow: -5px 0 0 2px rgb(0, 255, 179);
     top: 2px;
     left: 7px;
 }
@@ -117,7 +117,7 @@
 .rocket:before{
     position: absolute;
     content: "";
-    background-color: #39beff;
+    background-color: rgb(0, 255, 179);
     height: 20px;
     width: 55px;
     z-index: -1;
@@ -128,7 +128,7 @@
 .rocket:after{
     position: absolute;
     content: "";
-    background-color: #39beff;
+    background-color: rgb(0, 255, 179);
     height: 4px;
     width: 15px;
     border-radius: 0 0 2px 2px;
